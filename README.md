@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prakharsrivastava299@gmail.com**
 
-- 📄 Know about my work & experiences [Resume](https://github.com/prakharsri45)
+- 📄 Know about my work & experiences [Resume](https://github.com/prakharsri45/prakharsri45.github.io/blob/main/cv.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
