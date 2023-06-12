@@ -6,7 +6,7 @@
 
 - 👨‍💻 All about me is at [Portfolio](https://prakharsri45.github.io/)
 
-- 💬 Ask me about ``` var topics = [ "Python", "Java", "Spring" ] ```
+- 💬 Ask me about ``` var topics = [ "Python", "Java", "Spring", "APIs" ] ```
 
 - 📫 How to reach me **prakharsrivastava299@gmail.com**
 
