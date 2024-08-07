@@ -8,7 +8,7 @@
 
 - 💬 Ask me about ``` var topics = [ "Python", "Java", "Spring", "APIs" ] ```
 
-- 📫 How to reach me **prakharsrivastava299@gmail.com**
+- 📫 How to reach me **prakhar.srivastava4596@gmail.com**
 
 - 📄 Know about my work & experiences [Resume](https://github.com/prakharsri45/prakharsri45.github.io/blob/main/cv.pdf)
 
