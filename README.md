@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Prakhar Srivastava</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Engineer @ ABB | SDE @ Ex-Amazon, USA."</h3>
+<h3 align="center">git commit -m "Hello, I'm a Senior Software Engineer @ Oracle | SDE @ Ex-ABB, Ex-Amazon, USA."</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar45srivastava/)](https://linkedin.com/in/prakhar45srivastava) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/prakhartron)](https://twitter.com/prakhartron)
